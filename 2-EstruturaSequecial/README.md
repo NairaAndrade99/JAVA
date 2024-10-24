@@ -10,7 +10,7 @@ Operador  | Significado
  ' * '    | Multiplicação
  ' / '    | Divisão
  ' % '    | Resto da divisção (mod)
- |
+ 
 
 
  ----
@@ -58,7 +58,7 @@ Tipos numéricos com ponto flutuante   | float | 32 bits
 /// | double | 64 bits 
 Um caractere unicode | char | 16 bits 
 valor verdade | boolean | 1 bit 
-|
+
 
 #### String -> Cadeia de caracteres (palavras ou textos ) 
 
